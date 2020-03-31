@@ -6,6 +6,8 @@ dependencies:
   - black
   - mypy
   - pip
+  - pip:
+    - xbart
   - ipython
   - jupyter
   - numpy

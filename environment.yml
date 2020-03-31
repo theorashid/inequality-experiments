@@ -7,7 +7,7 @@ dependencies:
   - mypy
   - pip
   - pip:
-    - bartpy
+    - git+https://github.com/JakeColtman/bartpy.git
   - ipython
   - jupyter
   - numpy

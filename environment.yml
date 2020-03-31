@@ -7,7 +7,7 @@ dependencies:
   - mypy
   - pip
   - pip:
-    - xbart
+    - bartpy
   - ipython
   - jupyter
   - numpy

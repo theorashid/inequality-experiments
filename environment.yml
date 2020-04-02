@@ -16,4 +16,5 @@ dependencies:
   - seaborn
   - pandas
   - geopandas
+  - descartes
   - scikit-learn
